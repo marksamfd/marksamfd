@@ -1,5 +1,5 @@
 # Hi there 👋
-$$ I'm Mark Samuel, Sophomore student @ Zewail City Majoring in Data Science and AI 
+## I'm Mark Samuel, Sophomore student @ Zewail City Majoring in Data Science and AI 
 
 - 🔭 I’m currently working on VideoSlideshow
 - 🌱 I’m currently learning Machine Learning @ Zewai City
