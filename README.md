@@ -1,8 +1,5 @@
-### Hi there 👋
-
-**marksamfd/marksamfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi there 👋
+$$ I'm Mark Samuel, Sophomore student @ Zewail City Majoring in Data Science and AI 
 
 - 🔭 I’m currently working on VideoSlideshow
 - 🌱 I’m currently learning Machine Learning @ Zewai City
