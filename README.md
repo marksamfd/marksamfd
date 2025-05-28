@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marksamfd@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/marksamfd/resume/blob/master/mark_samuel_resume.pdf](https://github.com/marksamfd/resume/blob/master/mark_samuel_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/marksamfd/resume/blob/master/mark_samuel_resume.pdf?raw=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
