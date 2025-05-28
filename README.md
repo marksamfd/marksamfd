@@ -17,7 +17,13 @@
 
 <h3 align="left">Most Favorite Projects:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenalaa465&repo=Explainable-AI-for-Skin-Cancer-Detection)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/haneenalaa465/Explainable-AI-for-Skin-Cancer-Detection))
+
+<a href="https://github.com/marksamfd/WatchReverseEngineering">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marksamfd&repo=WatchReverseEngineering" />
+</a>
+<a href="https://github.com/marksamfd/NeuroDoc-Retriever">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marksamfd&repo=NeuroDoc-Retriever" />
+</a>
 
 <h3 align="left">Stats:</h3>
 
