@@ -1,35 +1,127 @@
-<h1 align="center">Hi 👋, I'm Mark Samuel</h1>
-<h3 align="center">A passionate ML Engineer from Egypt</h3>
+<h1 align="center">Hey 👋 I'm Mark Samuel</h1>
+<h3 align="center">Software & AI Engineer | Building End-to-End Intelligent Systems</h3>
 
-- 🌱 I’m currently learning **Transformers, NLP, GenAI**
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Egypt-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20XAI%20%7C%20LLMs-2ecc71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-React%20Native%20%7C%20Supabase-f39c12?style=flat-square" />
+</p>
 
-- 👯 I’m looking to collaborate on **BCI related projects**
+---
 
-- 👨‍💻 All of my projects are available at [marksamfd.github.io](marksamfd.github.io)
+### 🧠 About Me
+I design and build **end-to-end AI systems** — from data pipelines and model design to deployment and real-world integration.
 
-- 📫 How to reach me **marksamfd@gmail.com**
+- 🔭 **Current Work:** Local-first AI systems & interpretable ML (XAI)
+- 🌱 **Exploring:** Transformers, Generative AI, Reinforcement Learning
+- 🧩 **Interests:** Brain-Computer Interfaces (BCI), Robotics, Edge AI
+- 🎓 **Background:** Data Science & AI @ Zewail City
+- ⚡ **Edge:** I bridge **software ↔ hardware**, turning models into real-world systems
 
-- 📄 Know about my experiences [Resume](https://github.com/marksamfd/resume/blob/master/mark_samuel_resume.pdf?raw=true)
+---
 
+### ⚙️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### 🤖 AI & Data
+<p>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
 
-<h3 align="left">Most Favorite Projects:</h3>
+#### 💻 Software Engineering
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
+</p>
 
+#### 🔌 Embedded & Systems
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40"/>
+</p>
 
-<a href="https://github.com/marksamfd/WatchReverseEngineering">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marksamfd&repo=WatchReverseEngineering" />
-</a>
-<a href="https://github.com/marksamfd/NeuroDoc-Retriever">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marksamfd&repo=NeuroDoc-Retriever" />
-</a>
+---
 
-<h3 align="left">Stats:</h3>
+### 🚀 Featured Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marksamfd" />
-</a>
-<a href="https://github.com/marksamfd">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marksamfd&layout=compact&langs_count=8&card_width=320" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ YoloEye  
+**Real-Time Visual Intelligence**  
+> ⚡ ~30 FPS inference on live streams  
+> 🎯 Robust detection under varying conditions  
+> 🧠 End-to-end pipeline (capture → inference → visualization)  
+
+`PyTorch` `OpenCV` `Deep Learning`  
+🔗 https://github.com/marksamfd/YoloEye  
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NeuroDoc Retriever  
+**Semantic Search & RAG System**  
+> 🔍 ↓ latency by >40% via vector optimization  
+> 📈 Improved retrieval relevance with embedding tuning  
+> 🤖 Full RAG pipeline implementation  
+
+`LLMs` `Vector DB` `LangChain`  
+🔗 https://github.com/marksamfd/NeuroDoc-Retriever  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⌚ Watch Reverse Engineering  
+**Hardware ↔ Software Deep Dive**  
+> 🔧 Low-level firmware analysis  
+> ⚙️ Embedded + software integration  
+> 🧩 Hardware-software co-design  
+
+`Embedded` `Linux` `Reverse Engineering`  
+🔗 https://github.com/marksamfd/WatchReverseEngineering  
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 YouAttend  
+**AI-Powered Attendance System**  
+> 🎯 High recognition accuracy  
+> ⏱️ ↓ manual work by >80%  
+> 🔗 Full-stack AI deployment  
+
+`Computer Vision` `Python` `APIs`  
+🔗 https://github.com/marksamfd/YouAttend  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Insights
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marksamfd&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marksamfd&theme=default)
+---
+
+### 🌐 Let's Connect
+<p align="center">
+  <a href="https://marksamfd.github.io"><b>Portfolio</b></a> •
+  <a href="mailto:marksamfd@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/marksamfd/resume/blob/master/mark_samuel_resume.pdf?raw=true"><b>Resume</b></a>
+</p>
+
+---
+
+### 🧩 Philosophy
+> “Build systems that don’t just work — but can explain *why* they work.”
