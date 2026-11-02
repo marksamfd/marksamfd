@@ -2,7 +2,7 @@
 <h3 align="center">Software & AI Engineer | Building End-to-End Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Egypt-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hungary-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20XAI%20%7C%20LLMs-2ecc71?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20Native%20%7C%20Supabase-f39c12?style=flat-square" />
 </p>
